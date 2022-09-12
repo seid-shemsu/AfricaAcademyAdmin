@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/bg__"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    tools:context=".tabs.CertificateTab">
+
+    <androidx.recyclerview.widget.RecyclerView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_margin="10dp"
+        android:id="@+id/recycler_view"/>
+
+    <com.mikhaellopez.circularprogressbar.CircularProgressBar
+        android:layout_width="40dp"
+        android:layout_height="40dp"
+        app:cpb_background_progressbar_color="@color/background"
+        app:cpb_background_progressbar_width="5dp"
+        app:cpb_progress_direction="to_right"
+        app:cpb_progressbar_color="@color/colorPrimary"
+        app:cpb_indeterminate_mode="true"
+        app:cpb_progressbar_width="5dp"
+        app:cpb_round_border="true"
+        android:layout_centerInParent="true"
+        android:id="@+id/progress_bar"/>
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerInParent="true"
+        android:gravity="center"
+        android:text="@string/you_have_not_started_any_course_yet"
+        android:textColor="@color/colorPrimary"
+        android:visibility="gone"
+        android:id="@+id/no_course"/>
+
+</RelativeLayout>

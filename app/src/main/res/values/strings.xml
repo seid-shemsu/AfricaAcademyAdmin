@@ -1,0 +1,333 @@
+<resources>
+    <string name="app_name">Africa Academy Admin</string>
+    <string name="nav_header_desc" translatable="false">Navigation header</string>
+    <string name="action_settings" translatable="false">Settings</string>
+
+    <string name="ok">OK</string>
+    <string name="to_next">to next</string>
+    <string name="congratulation_n_you_have_complete_the_course_n_nthank_you">congratulation\nyou have complete the course.</string>
+    <string name="take_quiz">quiz</string>
+    <string name="final_exam">final exam</string>
+    <string name="congratulation_n_next_part_is_unlocked">next part is unlocked</string>
+    <string name="submit">submit</string>
+
+    <string-array name="country">
+        <item>Afghanistan</item>
+        <item>Albania</item>
+        <item>Algeria</item>
+        <item>Andorra</item>
+        <item>Angola</item>
+        <item>Argentina</item>
+        <item>Armenia</item>
+        <item>Aruba</item>
+        <item>Australia</item>
+        <item>Austria</item>
+        <item>Azerbaijan</item>
+        <item>Bahamas</item>
+        <item>Bahrain</item>
+        <item>Bangladesh</item>
+        <item>Barbados</item>
+        <item>Belarus</item>
+        <item>Belgium</item>
+        <item>Belize</item>
+        <item>Benin</item>
+        <item>Bhutan</item>
+        <item>Bolivia</item>
+        <item>Bosnia</item>
+        <item>Botswana</item>
+        <item>Brazil</item>
+        <item>Brunei</item>
+        <item>Bulgaria</item>
+        <item>Burkina Faso</item>
+        <item>Burundi</item>
+        <item>Cambodia</item>
+        <item>Cameroon</item>
+        <item>Canada</item>
+        <item>Cape Verde </item>
+        <item>Chad</item>
+        <item>Chile</item>
+        <item>China</item>
+        <item>Christmas Islands </item>
+        <item>Colombia</item>
+        <item>Comoros</item>
+        <item>Congo(DRC)</item>
+        <item>Congo-Brazzaville</item>
+        <item>Costa Rica </item>
+        <item>Côte d’Ivoire  </item>
+        <item>Croatia </item>
+        <item>Cuba</item>
+        <item>Cyprus</item>
+        <item>Czech Republic </item>
+        <item>Denmark</item>
+        <item>Djibouti</item>
+        <item>Ecuador</item>
+        <item>Egypt</item>
+        <item>El Salvador </item>
+        <item>Equatorial Guinea </item>
+        <item>Eritrea</item>
+        <item>Estonia</item>
+        <item>Fiji</item>
+        <item>Finland</item>
+        <item>France</item>
+        <item>Gabon</item>
+        <item>Gambia</item>
+        <item>Georgia</item>
+        <item>Germany</item>
+        <item>Ghana</item>
+        <item>Gibraltar</item>
+        <item>Greece</item>
+        <item>Greenland</item>
+        <item>Guatemala</item>
+        <item>Guernsey</item>
+        <item>Guinea</item>
+        <item>Guinea-Bissau </item>
+        <item>Guyana</item>
+        <item>Haiti</item>
+        <item>Honduras</item>
+        <item>Hong Kong</item>
+        <item>Hungary</item>
+        <item>Iceland</item>
+        <item>India</item>
+        <item>Indonesia</item>
+        <item>Iran</item>
+        <item>Iraq</item>
+        <item>Ireland</item>
+        <item>Israel</item>
+        <item>Italy</item>
+        <item>Jamaica</item>
+        <item>Japan</item>
+        <item>Jersey</item>
+        <item>Jordan</item>
+        <item>Kazakhstan</item>
+        <item>Kenya</item>
+        <item>Kiribati</item>
+        <item>Kuwait</item>
+        <item>Kyrgyzstan</item>
+        <item>Latvia</item>
+        <item>Lebanon</item>
+        <item>Lesotho</item>
+        <item>Liberia</item>
+        <item>Libya</item>
+        <item>Liechtenstein</item>
+        <item>Lithuania</item>
+        <item>Luxembourg</item>
+        <item>Macedonia</item>
+        <item>Madagascar</item>
+        <item>Malawi</item>
+        <item>Malaysia</item>
+        <item>Maldives</item>
+        <item>Mali</item>
+        <item>Malta</item>
+        <item>Mauritania</item>
+        <item>Mauritius</item>
+        <item>Mexico</item>
+        <item>Micronesia</item>
+        <item>Moldova</item>
+        <item>Monaco</item>
+        <item>Mongolia</item>
+        <item>Montenegro</item>
+        <item>Montserrat</item>
+        <item>Morocco</item>
+        <item>Mozambique</item>
+        <item>Myanmar</item>
+        <item>Namibia</item>
+        <item>Nauru</item>
+        <item>Nepal</item>
+        <item>Netherlands</item>
+        <item>New Zealand</item>
+        <item>Nicaragua</item>
+        <item>Niger</item>
+        <item>Nigeria</item>
+        <item>North Korea</item>
+        <item>Norway</item>
+        <item>Oman</item>
+        <item>Pakistan</item>
+        <item>Palestine</item>
+        <item>Panama</item>
+        <item>Paraguay</item>
+        <item>Peru</item>
+        <item>Philippines</item>
+        <item>Poland</item>
+        <item>Portugal</item>
+        <item>Qatar</item>
+        <item>Romania</item>
+        <item>Russia</item>
+        <item>Rwanda</item>
+        <item>San Marino</item>
+        <item>Saudi Arabia</item>
+        <item>Senegal</item>
+        <item>Serbia</item>
+        <item>Seychelles</item>
+        <item>Sierra Leone</item>
+        <item>Singapore</item>
+        <item>Slovakia</item>
+        <item>Slovenia</item>
+        <item>Somalia</item>
+        <item>South Africa</item>
+        <item>South Korea</item>
+        <item>South Sudan</item>
+        <item>Spain</item>
+        <item>Sri Lanka</item>
+        <item>Sudan</item>
+        <item>Swaziland</item>
+        <item>Sweden</item>
+        <item>Switzerland</item>
+        <item>Syria</item>
+        <item>Taiwan</item>
+        <item>Tajikistan</item>
+        <item>Tanzania</item>
+        <item>Thailand</item>
+        <item>Togo</item>
+        <item>Tunisia</item>
+        <item>Turkey</item>
+        <item>Turkmenistan</item>
+        <item>Uganda</item>
+        <item>Ukraine</item>
+        <item>United Arab Emirates</item>
+        <item>United Kingdom</item>
+        <item>United States</item>
+        <item>Uruguay</item>
+        <item>Uzbekistan</item>
+        <item>Vatican City</item>
+        <item>Venezuela</item>
+        <item>Vietnam</item>
+        <item>Yemen</item>
+        <item>Zambia</item>
+        <item>Zimbabwe</item>
+    </string-array>
+
+    <string-array name="gender">
+        <item>Gender</item>
+        <item>Male</item>
+        <item>Female</item>
+    </string-array>
+    <string name="ethiopia">Ethiopia</string>
+    <string name="select_country">select current country</string>
+
+
+    <string name="attemt_all_question">please attempt  all the question.</string>
+    <string name="saved_to_phone">saved to africa/certificates folder</string>
+    <string name="view_answers">view answers</string>
+    <string name="sign_in">sign in</string>
+    <string name="connet_internet">please connect to internet</string>
+    <string name="registered_successfully">registered successfully</string>
+    <string name="name">Name</string>
+    <string name="listen_audio">listen</string>
+    <string name="read_pdf">Read</string>
+    <string name="get_started">get started</string>
+    <string name="email">Email</string>
+    <string name="language">Language</string>
+    <string name="setting">Settings</string>
+    <string name="ask_question">Ask Question</string>
+    <string name="about">About us</string>
+    <string name="enter_your_question_here">Enter your question completely</string>
+    <string name="you_want_to_download_the_audio">You want to download the audio?</string>
+    <string name="file_size">File size : 2.7 MB</string>
+    <string name="download">Download</string>
+    <string name="cancel">Cancel</string>
+    <string name="certificate">Certificate</string>
+    <string name="log_out">Log out</string>
+
+
+    <!-- TODO: Remove or change this placeholder text -->
+
+    <string name="skip">Skip</string>
+    <string name="learn">Studying</string>
+    <string name="kitab">Courses</string>
+    <string name="test">Test</string>
+    <string name="reward">Certificate</string>
+    <string name="kita_text">Courses will be conducted by famous scholars.</string>
+    <string name="learn_text">You can study using audio or reading or watching YouTube.</string>
+    <string name="test_text">Prepare your hands for tests and final exam.</string>
+    <string name="reward_text">There will be a certificate after the completion of a course.</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="phone_number">Phone number</string>
+    <string name="courses">Courses</string>
+    <string name="start">Start</string>
+    <string name="continue_">Continue</string>
+    <string name="clear">Clear</string>
+    <string name="select_language">Select language</string>
+    <string name="registerd_phone">Registered phone</string>
+    <string name="please_wait">Please wait…</string>
+    <string name="accomplishments">Accomplishments</string>
+    <string name="change_profile_picture">Change profile picture</string>
+    <string name="save">Save</string>
+    <string name="your_progress_will_be_cleared">Your progress will be cleared</string>
+    <string name="asses_course">Asses course</string>
+    <string name="please_asses_the_course">Please asses the course</string>
+    <string name="very_good">Very good</string>
+    <string name="good">Good</string>
+    <string name="bad">Bad</string>
+    <string name="done">Done</string>
+    <string name="complete_assessment">please complete the assessment</string>
+    <string name="teaching_performance">teaching performance</string>
+    <string name="content_rating">Content rating</string>
+    <string name="how_much_have_you_learned">How much have you learned?</string>
+    <string name="more_than_70">More than 70%</string>
+    <string name="less_than_40">Less than 40%</string>
+    <string name="send">Send</string>
+    <string name="ask_a_question">Ask a Question</string>
+    <string name="logo">logo</string>
+    <string name="profile">profile</string>
+    <string name="edit">edit</string>
+    <string name="answer_submitted">Answer submitted</string>
+    <string name="hide">Hide</string>
+    <string name="downloading">Downloading</string>
+    <string name="take_tests">Take all tests first</string>
+    <string name="take_prev_lesson">Please pass the previous part first</string>
+    <string name="question_sent">Your question has been sent successfully</string>
+    <string name="sign_out">Sign Out</string>
+    <string name="invalid_format">Invalid format</string>
+    <string name="unregistered_number">Unregistered number</string>
+    <string name="name_required">Full name required</string>
+    <string name="invalid_email">Invalid email</string>
+    <string name="you_are_going_to_sign_out">you are going to sign out</string>
+    <string name="version">Version</string>
+    <string name="social_media">Social Media</string>
+    <string name="developer">Developer</string>
+    <string name="quiz">quiz</string>
+    <string name="personal_information">Personal Information</string>
+    <string name="choose_your_account">choose your account</string>
+    <string name="help">help</string>
+    <string name="register">register</string>
+    <string name="use_name">Use a name that you want to be printed on the certificate</string>
+    <string name="attendants">attendants</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="share">share</string>
+    <string name="no_account_added_yet">no account added yet</string>
+    <string name="add_new_account">add new account</string>
+    <string name="select_your_account">select your account</string>
+    <string name="select_gender">select your gender</string>
+    <string name="you_are_going_to_remove_the_account">you are going to remove the account</string>
+    <string name="remove">remove</string>
+    <string name="user_removed">account removed</string>
+    <string name="watch_video">watch video</string>
+    <string name="read_pdf_help">read pdf</string>
+    <string name="minimum_word_length">minimum word length</string>
+    <string name="pls_use_more_words">please use more words</string>
+    <string name="you_do_not_have_any_certificate_yet">you do not have any certificate yet.</string>
+    <string name="you_have_not_started_any_course_yet">you have not started any course yet.</string>
+    <string name="sorry_you_could_not_pass_the_final_exam">The degree of passing the exam is 70% or more</string>
+    <string name="back_to_main">back to main</string>
+    <string name="final_exam_taken">You already take the final exam</string>
+    <string name="complered">% completed</string>
+    <string name="no_question_have_been_loaded">no question have been loaded</string>
+    <string name="affan_oromo">Afaan oromoo</string>
+    <string name="coming_soon">coming soon</string>
+    <string name="share_via">share via</string>
+    <string name="file_not_exist">file not exist</string>
+    <string name="try_again">try again</string>
+    <string name="call">call</string>
+    <string name="telegram">telegram</string>
+    <string name="sorry_your_certificate_is_not_ready_yet">Sorry, your certificate is not ready yet.</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment" translatable="false">Hello blank fragment</string>
+    <string name="no_message">No new message.</string>
+    <string name="notification">Notification</string>
+    <string name="about_us">የ አፍሪካ አካዳሚ ትክክለኛውን እስላማዊ ግንዛቤ ቁርአን እና ሃዲስን በምንጭነት በመጠቀም ለ አፍሪካ ማህበረሰብ የሚያቀርብ የርቀት ትምህርት ነው ፡፡
+የ ትምህርት ፕሮግራም ቀርጾ ለ እውቀት ፈላጊዎች በ ኢንተርኔት በ ማህበራዊ ድህረ ገጾች እና በ አፍሪካ ቲቪ ማቅረብን አላማ ያደረገ ነው፡፡
+የ ርቀት ትምህርቱንም አካዳሚያችን የ ሚጠቀመው ኮርሶቹን በ ቀላሉ እና በ ኦንላይን ማድረስ በአጭሩ (Massive Open Online Course)
+አካዳሚያችን 100% ኤሌክትሮኒክስ ሲሆን በማን ኛውም ወቅት ተማሪው በ ኮምፑዩተር ወይም በ ስማርት ስልክ ገብቶ መከታተል ይችላል ፡፡ ትምህርቶቹን እንዲሁም መልመጃዎችን በቀላሉ ሊገለልገሉ ይችላሉ</string>
+
+</resources>
